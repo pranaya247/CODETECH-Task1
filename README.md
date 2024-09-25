@@ -9,7 +9,7 @@ Domain: Software Development
 
 Duration: August to september 2024
 
-Mentor: Shravani gouni
+Mentor: Neela Sonthosh Kumar
 
 Overview of Project
 Project:Online Shoppee - E-commerce Website
