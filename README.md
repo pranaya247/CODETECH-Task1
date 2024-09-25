@@ -14,6 +14,9 @@ Mentor: Neela Sonthosh Kumar
 Overview of Project
 Project:Online Shoppee - E-commerce Website
 
+![Screenshot (199)](https://github.com/user-attachments/assets/6a708402-fa37-40a3-a15e-f1a91b6a62d4)
+
+
 Objective:
 Online Shoppee is an e-commerce website that allows users to browse and purchase various products online. The website is designed to mimic the layout and functionality of popular online shopping websites like Amazon.
 
