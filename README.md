@@ -1,7 +1,20 @@
 # CODETECH-Task1
-Online Shoppee - E-commerce Website
+Name: Dhanapally Pranaya
 
-Overview:
+Company: CodeTech IT Solutions
+
+ID:CT08DS7586
+
+Domain: Software Development
+
+Duration: August to september 2024
+
+Mentor: Shravani gouni
+
+Overview of Project
+Project:Online Shoppee - E-commerce Website
+
+Objective:
 Online Shoppee is an e-commerce website that allows users to browse and purchase various products online. The website is designed to mimic the layout and functionality of popular online shopping websites like Amazon.
 
 Features
